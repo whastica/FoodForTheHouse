@@ -1,0 +1,13 @@
+co\unicauca\foodforthehouse\commons\domain\Plato.class
+co\unicauca\foodforthehouse\commons\domain\TipoComponente.class
+co\unicauca\foodforthehouse\commons\domain\Cliente.class
+co\unicauca\foodforthehouse\commons\domain\TipoCliente.class
+co\unicauca\foodforthehouse\commons\infra\Parameter.class
+co\unicauca\foodforthehouse\commons\domain\DiaMenu.class
+co\unicauca\foodforthehouse\commons\domain\Menu.class
+co\unicauca\foodforthehouse\commons\infra\JsonError.class
+co\unicauca\foodforthehouse\commons\domain\Restaurante.class
+co\unicauca\foodforthehouse\commons\infra\Protocol.class
+co\unicauca\foodforthehouse\commons\infra\Utilities.class
+co\unicauca\foodforthehouse\commons\domain\Componente.class
+co\unicauca\foodforthehouse\commons\domain\TipoPlato.class
